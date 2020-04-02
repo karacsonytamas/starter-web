@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Karacsony Tamas    ktamas1995@gmail.com    @karacsonytamas
 
 # THANKS
 
