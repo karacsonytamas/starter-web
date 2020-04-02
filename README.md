@@ -3,6 +3,8 @@
 This repository is for showing how Git and GitHub work
 Blablabla
 
+Stash text
+
 Adding dummy text.
 myfeature branch Test...
 
