@@ -24,3 +24,5 @@ Please read this.
 Lallalalallaaaaaaaaaaaaaaaaaaaaa
 
 2014 GIT.Training
+
+## Copyright
