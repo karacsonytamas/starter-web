@@ -16,6 +16,8 @@ Shitt.
 Sample website with plenty of files for demos
 
 ## How To Contribute
+
+Please read this.
 Lallalalallaaaaaaaaaaaaaaaaaaaaa
 
 2014 GIT.Training
